@@ -1,4 +1,4 @@
-# Text-Speech-Converter
+# TextSpeechConverter
 
 *Text-Speech-Converter* is a Python project that provides functionality for converting text to speech and speech to text. This project is designed to make it easy for users to interact with text and speech data, whether by generating speech from text input or by transcribing spoken words into written text.
 
